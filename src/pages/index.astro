@@ -9,9 +9,6 @@ import {
     TITLE, 
     TAGLINE,
 } from "../config";
-
-// fetch all Markdown files in the links directory
-const links = await Astro.glob("./links/*.md");
 ---
 
 <Layout title={TITLE + " - " + SUBTITLE}>
