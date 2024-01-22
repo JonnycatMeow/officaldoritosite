@@ -3,6 +3,6 @@ export const TITLE = "FutureDorito"
 export const TAGLINE = "Apple developer/mobile developer"
 
 // Contacts
-//export const contact = "Keep in touch"
-//export const phone = "+33600000000"
-//export const email = "contact@yoandev.co"
+export const contact = "ignore this"
+export const phone = "+33600000000"
+export const email = "contact@yoandev.co"
